@@ -10,7 +10,6 @@
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
 	<preference name="SplashScreen" value="splash" />
-	<preference name="AutoHideSplashScreen" value="false" />
 	<preference name="ShowSplashScreenSpinner" value="false" />
 	<preference name="SplashScreenDelay" value="5000" />
     

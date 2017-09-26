@@ -3,7 +3,7 @@
     
     <name>GivemeExp</name>
     <description>Complete your business projects with our student talent cloud!</description>
-    <author email="support@givemeexp.com" href="https://www.givemeexp.com">GMEXP Webmaster</author>
+    <author email="support@givemeexp.com" href="http://www.givemeexp.com">GMEXP Webmaster</author>
 
     <preference name="phonegap-version" value="cli-6.5.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -46,6 +46,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="https://www.givemeexp.com" />
-    <access origin="https://www.givemeexp.com" subdomains="true" />
+    <content src="http://www.givemeexp.com" />
+    <access origin="*" subdomains="true" />
 </widget>

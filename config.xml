@@ -22,7 +22,7 @@
 	<plugin name="org.apache.cordova.vibration" source="npm" />
 	<plugin name="org.apache.cordova.network-information" source="npm" />
 	<plugin name="cordova-plugin-device" spec="~1.1.6" />
-	<plugin name="com.simplec.plugins.localnotification" spec="0.3.5" source="pgb" />
+	<plugin name="com.simplec.plugins.localnotification" spec="0.3.5" source="npm" />
 
 	<icon src="icon.png" />
 	
